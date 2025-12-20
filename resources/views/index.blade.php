@@ -50,7 +50,7 @@
                 {{-- Footer Info --}}
                 <div class="mt-12 text-center text-sm text-gray-500">
                     <p class="mb-2">
-                        * Data harga dan rekomendasi ini adalah simulasi untuk tujuan demonstrasi
+                        * Rekomendasi dihasilkan dari prediksi closing price berikutnya dan perbandingannya dengan harga saat ini.
                     </p>
                     <p>
                         * Selalu lakukan riset mandiri sebelum membuat keputusan investasi

@@ -12,36 +12,36 @@ class StockController extends Controller
         [
             "symbol" => "ANTM.JK",
             "name" => "Aneka Tambang Tbk.",
-            "sector" => "Perbankan",
-            "marketCap" => "Rp 670 T",
+            "sector" => "Pertambangan",
+            "marketCap" => "Rp 73 T",
             "description" => "Perusahaan pertambangan yang bergerak di bidang eksplorasi, penambangan, pengolahan, dan pemasaran bijih nikel, feronikel, emas, perak, bauksit, dan batubara."
         ],
         [
             "symbol" => "BBNI.JK",
             "name" => "Bank Negara Indonesia Tbk.",
             "sector" => "Perbankan",
-            "marketCap" => "Rp 670 T",
+            "marketCap" => "Rp 160 T",
             "description" => "Bank BUMN terbesar kedua di Indonesia yang menyediakan layanan perbankan lengkap untuk segmen korporat, komersial, UKM, dan konsumer."
         ],
         [
             "symbol" => "BBRI.JK",
             "name" => "Bank Rakyat Indonesia Tbk.",
             "sector" => "Perbankan",
-            "marketCap" => "Rp 670 T",
+            "marketCap" => "Rp 565 T",
             "description" => "Bank terbesar di Indonesia berdasarkan aset dan kredit yang memiliki fokus kuat pada segmen mikro, kecil, dan menengah."
         ],
         [
             "symbol" => "BMRI.JK",
             "name" => "Bank Mandiri Tbk.",
             "sector" => "Perbankan",
-            "marketCap" => "Rp 670 T",
+            "marketCap" => "Rp 478 T",
             "description" => "Bank terbesar di Indonesia berdasarkan aset yang menyediakan layanan perbankan universal dengan jaringan cabang yang luas."
         ],
         [
             "symbol" => "TLKM.JK",
             "name" => "Telkom Indonesia Tbk.",
             "sector" => "Telekomunikasi",
-            "marketCap" => "Rp 390 T",
+            "marketCap" => "Rp 337 T",
             "description" => "Penyedia layanan telekomunikasi dan teknologi informasi terintegrasi terbesar di Indonesia dengan layanan fixed line, mobile, dan digital."
         ],
     ];

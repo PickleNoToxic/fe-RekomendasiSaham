@@ -162,7 +162,7 @@
                                 </div>
 
                                 <div class="text-sm text-muted-foreground">
-                                    <p class="mb-2">* Rekomendasi berdasarkan analisis teknikal dan fundamental</p>
+                                    <p class="mb-2">* Rekomendasi dihasilkan dari prediksi closing price berikutnya dan perbandingannya dengan harga saat ini</p>
                                     <p>* Selalu lakukan riset mandiri sebelum berinvestasi</p>
                                 </div>
                             </div>
